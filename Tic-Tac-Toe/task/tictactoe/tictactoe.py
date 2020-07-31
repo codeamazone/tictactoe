@@ -20,7 +20,7 @@ def create_field():
 def check_input():
     global coordinates
     range_ = {1, 2, 3}
-    move = ''.join(input('Enter the coordinates:').split())
+    move = input('Enter the coordinates:').split()
     string_check = [x for x in move if not x.isdigit()]
     digit_check = [x for x in move if x.isdigit()]
     if len(string_check) > 0 or len(digit_check) < 2 or len(digit_check) > 3:
