@@ -1,0 +1,15 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6212
+status: Solved
+feedback:
+  message: |-
+    Connection to server was interrupted
+
+    timeout
+  time: Tue, 28 Jul 2020 09:51:18 UTC
+record: -1

@@ -1,0 +1,13 @@
+type: code
+custom_name: What day is it?
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9467
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9467">JetBrains
+    Academy</a></html>
+  time: Wed, 29 Jul 2020 09:42:17 UTC
+record: -1
